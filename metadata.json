@@ -1,5 +1,5 @@
 {
-  "name": "DocuExtract AI",
+  "name": "ALI's Document OCR Extractor",
   "description": "Intelligent PDF data extraction tool powered by Gemini 2.5 Flash. Upload large PDFs, define fields, and export structured data to Excel.",
   "requestFramePermissions": []
 }
